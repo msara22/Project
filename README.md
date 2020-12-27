@@ -1,5 +1,5 @@
 Encoder-Decoder Application
-Done by Sarvinoz and Ismatullo
+Done by Sarvinoz Toshpulotova and Ismatullo Mukhamedzhanov
 
 The main idea of this project is to encrypt or decrypt the plane text. For this, we used affine cipher algoithm. The main encryption equation of affime cipher is:(ax + b) mod m
 where a and b make the keys. So, we have created an application that takes three inputs: 2 main keys, and one input is a text that should be ciphered or deciphered.
