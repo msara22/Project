@@ -1,6 +1,5 @@
 package Encryption;
 
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -24,3 +23,4 @@ public class Encryption extends Application {
         launch(args);
     }
 }
+
